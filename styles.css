@@ -5,15 +5,19 @@ body{
 h1{
 	padding-left:20px;
 }
-#p1{
+.p1{
 	padding-left:20px;
 	border:2px solid black;
 	background-color:white;
-	margin-bottom:20px
+	margin-bottom:10px;
 }
 .author{
 	text-align:right;
 	font-style:italic;
-	padding-right:20px
+	margin-right:20px;
+	margin-top:0px;
+}
+.p2{
+	margin-bottom:0px
 }
 
