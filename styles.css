@@ -2,7 +2,9 @@
     background-color: #f5f5f5;
     padding: 20px;
 }
-
+h1{
+	margin-left:5px;
+}
 .testimonial {
     background-color: #fff;
     padding: 15px;
